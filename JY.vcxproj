@@ -207,9 +207,6 @@
   <ItemGroup>
     <None Include="res\JY.rc2" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\Downloads\J1Y.ico" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

@@ -55,9 +55,4 @@
       <Filter>资源文件</Filter>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\Downloads\J1Y.ico">
-      <Filter>资源文件</Filter>
-    </Image>
-  </ItemGroup>
 </Project>
