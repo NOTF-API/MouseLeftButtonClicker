@@ -8,3 +8,6 @@ Microsoft Visual Studio Community 2019
 版本16.6.2
 
 打开sln工程编译运行
+
+[下载地址(release)](https://github.com/NOTF-API/MouseLeftButtonClicker/releases/)
+
