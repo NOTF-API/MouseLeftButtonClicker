@@ -1,0 +1,2 @@
+# MouseLeftButtonClicker
+基于MFC的鼠标左键连点器
